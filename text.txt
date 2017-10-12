@@ -1,4 +1,4 @@
 1.The string will not be changed 
 2.The string will be changed by first developer
-3.The string will be changed by second developer
-4.The string will be changed by developers
+3.The string is changed by second developer
+4.The string will be changed by developers (The string is changed by second developer)
